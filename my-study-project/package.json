@@ -1,0 +1,19 @@
+{
+  "name": "my-study-project",
+  "version": "1.0.0",
+  "description": "This is training version of the project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Prokopenbko",
+  "license": "ISC",
+  "dependencies": {
+      "react": "^15.0.2",
+      "react-dom": "^15.0.2",
+      "jquery": "*"
+  },
+  "devDependencies":{
+    "babel": "5.x"
+  }
+}
